@@ -1,4 +1,4 @@
-# Local API environment variables
+con# Local API environment variables
 .env
 
 # Local database folders (Very large binary files)
